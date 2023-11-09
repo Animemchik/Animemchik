@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Animemchik
 - 👀 I'm interested in Programming
-- I know Python and JavaScript
-- 🌱 Now I'm learning Java
+- I know Python, Java
+- 🌱 Now I'm learning C++
 - 💞️ At the moment I can not offer you cooperation with me
 - 📫 How to reach me? Write to my account email asasinbro3@gmail.com 
 - Thank you! Goodbye

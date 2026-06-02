@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my programming language<br>🤝 I’m looking for help with compiler<br>🌱 I’m currently learning Rust<br>⚡ Fun fact Kolobok povesilsya
+🔭 I’m currently working on my programming language<br>🤝 I’m looking for help with compiler<br>🌱 I’m currently learning Rust<br>⚡ Fun fact Kolobok povesilsya 🤣🤣🤣🤣🤣
 
 
 ## 🌐 Socials:
